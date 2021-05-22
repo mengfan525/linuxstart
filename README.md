@@ -1,2 +1,8 @@
 # linuxstart
+
+
+
+
 linuxstart example
+
+*todo
